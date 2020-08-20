@@ -2,7 +2,7 @@
 Este projeto se refere ao trabalho final da disciplina de grafos.
 
 ## Padrões 
-*Cada uma dos arquivos com seu conteúdo relacionado.*
+*Cada um dos arquivos com seu conteúdo relacionado.*
 
 *O arquivo "Trabalho.pdf" contém as instruções do trabalho.*
 
