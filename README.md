@@ -1,6 +1,9 @@
 # Trabalho_Final_Grafos
 Repositorio com o trabalho final da disciplina de grafos.
-O trabalho foi realizado por Alessandra Louzada, Guilherme Lucas(https://github.com/Guilherme-Lucas-Vieira) e Ynara Resende(https://github.com/YnaraResende).
+O trabalho foi realizado por:
+Alessandra Louzada(https://github.com/AlessandraLouzada),
+Guilherme Lucas(https://github.com/Guilherme-Lucas-Vieira) e 
+Ynara Resende(https://github.com/YnaraResende).
 
 *Descrição do trabalho*
 
