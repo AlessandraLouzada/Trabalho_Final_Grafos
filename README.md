@@ -1,30 +1,16 @@
 # Trabalho_Final_Grafos
-Repositorio com o trabalho final da disciplina de grafos.
-O trabalho foi realizado por:
+Este projeto se refere ao trabalho final da disciplina de grafos.
 
-Alessandra Louzada(https://github.com/AlessandraLouzada),
+## Padrões 
+*Cada uma dos arquivos com seu conteúdo relacionado.*
 
-Guilherme Lucas(https://github.com/Guilherme-Lucas-Vieira) e 
+*O arquivo "Trabalho.pdf" contém as instruções do trabalho.*
+*O arquivo "TrabalhoGrafos.py contém a resolução do trabalho, implementada na linguegem de programação python."*
+*O arquivo "Problemas" se refere aos dados de teste utilizados como entrada para o problema.*
+*O arquivo "bkv.txt" contém os parâmetros utilizados para a realização dos testes computacionais.*
+*O arquivo "resultados.txt" possui os valores encontrados para as instâncias do problema.*
 
+## Equipe 
+Alessandra Louzada(https://github.com/AlessandraLouzada); 
+Guilherme Lucas(https://github.com/Guilherme-Lucas-Vieira); 
 Ynara Resende(https://github.com/YnaraResende).
-
-
-*Descrição do trabalho*
-
-O arquivo trabalho.pdf contêm as intruções do trabalho.
-
-
-*A pasta "Problemas"*
-
-Contêm os arquivos de texto com as entradas dos problemas a serem resolvidos. 
-
-
-*Arquivo bkv.txt e resultados.txt*
-
-O arquivo bkv.txt contêm os parametros usados para a realização dos testes computaionais.
-O arquivo resultados.txt contêm os valores dos testes realizados.
-
-
-*Arquivo TrabalhoGrafos.py*
-
-Contêm o algoritmo desenvolvido para resolução do problema
