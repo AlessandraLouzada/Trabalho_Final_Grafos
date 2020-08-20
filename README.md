@@ -15,8 +15,9 @@ Este projeto se refere ao trabalho final da disciplina de grafos.
 *O arquivo "resultados.txt" possui os valores encontrados para as instâncias do problema.*
 
 ## Equipe 
-'''
 Alessandra Louzada(https://github.com/AlessandraLouzada); 
+
 Guilherme Lucas(https://github.com/Guilherme-Lucas-Vieira); 
+
 Ynara Resende(https://github.com/YnaraResende).
-'''
+
